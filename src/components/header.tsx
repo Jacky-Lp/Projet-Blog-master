@@ -34,7 +34,7 @@ export const Header = () => {
                 <DialogTrigger>
                     <Image
                     src='/Loupe.svg'
-                    alt="Picture of the author"
+                    alt=""
                     width={50}
                     height={50}/>
                 </DialogTrigger>
@@ -70,4 +70,3 @@ export const Header = () => {
     );
 };
 export default Header;
-
